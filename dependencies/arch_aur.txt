@@ -1,0 +1,7 @@
+pocketsphinx
+libart_lgpl
+bindfs
+libdispatch-git
+dict-wn
+dict-jargon
+flite1

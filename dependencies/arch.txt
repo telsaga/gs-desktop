@@ -1,5 +1,5 @@
 gcc
-gcc-lib
+gcc-libs
 gcc-objc
 avahi
 systemd
@@ -44,7 +44,7 @@ libinput
 avahi
 libwebp
 curl
-libXinerama
+libxinerama
 libvncserver
 libjpeg-turbo
 freerdp
@@ -67,14 +67,14 @@ file
 libxkbfile
 xcb-util
 xorg-server-xnest
-libXft
+libxft
 libxcursor
 libxt
 libxtst
 freetype2
 libxcb
 libical
-SDL2
+sdl2
 p7zip
 recoll
 vim
@@ -82,8 +82,7 @@ htop
 scrot
 slop
 rclone
-livvlc
-vlc-plugin-pipewire
+libvlc
 ffmpeg
 pipewire
 libpipewire
@@ -116,7 +115,7 @@ texinfo
 gettext
 texinfo
 emacs
-NetworkManager
+networkmanager
 dictd
 python-pyftpdlib
 robin-map

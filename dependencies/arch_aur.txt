@@ -5,3 +5,4 @@ libdispatch-git
 dict-wn
 dict-jargon
 flite1
+vlc-plugin-pipewire
